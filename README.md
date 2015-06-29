@@ -6,6 +6,8 @@ The file "BlockStructure.R" contains a guide to the use of the code, as well as 
 For any question/comment/bug, feel free to contact
 
 Stefano Allesina
+
 sallesina@uchicago.edu
+
 http://allesinalab.uchicago.edu
 
